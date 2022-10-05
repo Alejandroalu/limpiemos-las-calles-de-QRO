@@ -8,3 +8,34 @@ li {
     text-align: left;
 
 }
+
+.contenedor {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px;
+    display: block;
+    display: inline-block;
+
+}
+
+
+.navbar {
+    background: black;
+    position: sticky;
+    top: 0;
+    size: 2cm;
+}
+
+.navbar {
+    color: aliceblue;
+    display: inline-block;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    transition: .3s ease-out all;
+}
+
+.contenedor-imagen {
+    image-rendering: auto;
+}
